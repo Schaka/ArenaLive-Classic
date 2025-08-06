@@ -1,0 +1,14 @@
+## Interface: 11500
+## Title: ArenaLive3 [Core]
+## Notes: Framework for unit frames.
+## Author: Vadrak, Schaka
+## Version: 3.2.3d
+## SavedVariables: ArenaLive_Database, LCD_Data, LCD_SpellInfo, LCD_GUIDAccess
+
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibClassicDurations\LibClassicDurations.xml
+Libs\LibHealComm-4.0\LibHealComm-4.0.xml
+
+ArenaLive.xml
